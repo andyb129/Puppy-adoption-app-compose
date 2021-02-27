@@ -8,13 +8,12 @@
 ## :scroll: Description
 Adopt a Pup is a simple app to browse for amazing dogs ready for a new home!
 
-( All UI is written in Compose for week 1 of the Android Dev Challenge: Compose
-- [#AndroidDevChallenge](https://developer.android.com/dev-challenge) )
+( All UI is written in Compose for week 1 of the Android Dev Challenge: Compose [#AndroidDevChallenge](https://developer.android.com/dev-challenge) )
 
 
 ## :bulb: Motivation and Context
-Exited to learn as much as I can of the new Android UI toolkit Compose, and creating a simple app
-like this is a great start to the journey
+Excited to learn as much as I can of the new Android UI toolkit Compose, and creating a simple app
+like this is a great start
 
 
 ## :camera_flash: Screenshots
